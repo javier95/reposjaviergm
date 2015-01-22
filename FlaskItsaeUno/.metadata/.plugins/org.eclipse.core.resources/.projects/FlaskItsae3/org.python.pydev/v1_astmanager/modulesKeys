@@ -1,0 +1,15 @@
+MODULES_MANAGER_V2
+app.__init__|E:\Sesion 06\FlaskItsaeUno\FlaskItsae3\app\__init__.py
+app.mainIndex|E:\Sesion 06\FlaskItsaeUno\FlaskItsae3\app\mainIndex.py
+app.personaMain|E:\Sesion 06\FlaskItsaeUno\FlaskItsae3\app\personaMain.py
+ec.__init__|E:\Sesion 06\FlaskItsaeUno\FlaskItsae3\ec\__init__.py
+ec.edu.__init__|E:\Sesion 06\FlaskItsaeUno\FlaskItsae3\ec\edu\__init__.py
+ec.edu.itsae.__init__|E:\Sesion 06\FlaskItsaeUno\FlaskItsae3\ec\edu\itsae\__init__.py
+ec.edu.itsae.conn.DBcon|E:\Sesion 06\FlaskItsaeUno\FlaskItsae3\ec\edu\itsae\conn\DBcon.py
+ec.edu.itsae.conn.__init__|E:\Sesion 06\FlaskItsaeUno\FlaskItsae3\ec\edu\itsae\conn\__init__.py
+ec.edu.itsae.conn.coexion|E:\Sesion 06\FlaskItsaeUno\FlaskItsae3\ec\edu\itsae\conn\coexion.py
+ec.edu.itsae.dao.PersonaDAO|E:\Sesion 06\FlaskItsaeUno\FlaskItsae3\ec\edu\itsae\dao\PersonaDAO.py
+ec.edu.itsae.dao.__init__|E:\Sesion 06\FlaskItsaeUno\FlaskItsae3\ec\edu\itsae\dao\__init__.py
+prueba|E:\Sesion 06\FlaskItsaeUno\FlaskItsae3\prueba.py
+prueba2|E:\Sesion 06\FlaskItsaeUno\FlaskItsae3\prueba2.py
+run|E:\Sesion 06\FlaskItsaeUno\FlaskItsae3\run.py
